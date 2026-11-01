@@ -1,9 +1,7 @@
 <p align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=ROSHON&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
-
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ROSHON&fontSize=75&fontAlignY=42&fontColor=ffffff&color=0:000428,50:004e92,100:000000" />
 
 ### `> SYSTEM ONLINE_`
 
