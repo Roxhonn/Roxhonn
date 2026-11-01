@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR-ANIMATED-CODING-BACKGROUND.gif" width="100%" alt="Coding Animation"/>
+  <img src="./assets/roshon-terminal.svg" width="100%">
 </p>
 
 <h1 align="center">
