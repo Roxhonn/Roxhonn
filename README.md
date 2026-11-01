@@ -33,7 +33,7 @@
 ## 👨‍💻 About Me
 
 ```text
-🎓 Computer Science Engineering Student
+🎓 Computer Science Engineering Student at CENTURION UNIVERSITY OF TECHNOLOGY & MANAGEMENT, BHUBANESWAR,ODISHA
 💻 Interested in Software Development & Web Technologies
 🌐 Currently working with Angular and TypeScript
 ☕ Learning Java, Spring Boot & REST APIs
