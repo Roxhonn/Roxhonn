@@ -22,7 +22,7 @@
 </p>
 # 👋 Hey there, I'm Roshon Maharana!
 
-### 🚀 Aspiring Software Developer | CSE Student | Tech Enthusiast
+### 🚀 Aspiring Software Developer | CSE Student | CENTURION UNIVERSITY OF TECHNOLOGY & MANAGEMENT
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;CSE+Student+%7C+Software+Developer;Angular+%7C+Java+%7C+Spring+Boot;Building+Projects+and+Learning+Every+Day+%F0%9F%9A%80" />
