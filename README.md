@@ -1,13 +1,8 @@
 <p align="center">
 
-```text
-██████╗  ██████╗ ███████╗██╗  ██╗ ██████╗ ███╗   ██╗
-██╔══██╗██╔═══██╗██╔════╝██║  ██║██╔═══██╗████╗  ██║
-██████╔╝██║   ██║███████╗███████║██║   ██║██╔██╗ ██║
-██╔══██╗██║   ██║╚════██║██╔══██║██║   ██║██║╚██╗██║
-██║  ██║╚██████╔╝███████║██║  ██║╚██████╔╝██║ ╚████║
-╚═╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+ROSHON+%F0%9F%91%8B;Think.+Create.+Build.+Repeat.;LEARN+%7C%7C+BUILD+%7C%7C+EVOLVE+%F0%9F%9A%80;Turning+Ideas+Into+Projects+%E2%9A%A1" alt="Typing SVG" />
+
 
 ### `> SYSTEM ONLINE_`
 
