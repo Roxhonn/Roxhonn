@@ -1,3 +1,25 @@
+<p align="center">
+
+```text
+██████╗  ██████╗ ███████╗██╗  ██╗ ██████╗ ███╗   ██╗
+██╔══██╗██╔═══██╗██╔════╝██║  ██║██╔═══██╗████╗  ██║
+██████╔╝██║   ██║███████╗███████║██║   ██║██╔██╗ ██║
+██╔══██╗██║   ██║╚════██║██╔══██║██║   ██║██║╚██╗██║
+██║  ██║╚██████╔╝███████║██║  ██║╚██████╔╝██║ ╚████║
+╚═╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+```
+
+### `> SYSTEM ONLINE_`
+
+🚀 **LEARN • BUILD • EVOLVE**
+
+💻 `Initializing developer journey...`
+
+🌾 `Currently building: Mandi-Connect-AI`
+
+🟢 **STATUS: BUILDING THE FUTURE**
+
+</p>
 # 👋 Hey there, I'm Roshon Maharana!
 
 ### 🚀 Aspiring Software Developer | CSE Student | Tech Enthusiast
