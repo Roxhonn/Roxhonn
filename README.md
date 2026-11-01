@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=𝐑𝐎𝐒𝐇𝐎𝐍&fontSize=78&fontAlignY=42&fontColor=ffffff&color=0:000428,50:004e92,100:000000" />
 </p>
 <p
-### `> SYSTEM ONLINE_`
-
 🚀 **LEARN • BUILD • EVOLVE**
 
 💻 `Initializing developer journey...`
