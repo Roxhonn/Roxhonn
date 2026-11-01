@@ -1,6 +1,4 @@
 <p align="center">
-
-<p align="center">
   <img src="YOUR-ANIMATED-CODING-BACKGROUND.gif" width="100%" alt="Coding Animation"/>
 </p>
 
